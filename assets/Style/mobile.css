@@ -70,14 +70,24 @@ button{
 button{
     padding: 13px;
     margin: 5px;
+<<<<<<< HEAD
     background-color:var(--Green);
     color: var(--White);
+=======
+    background-color:/* green;*/var(--Green);
+    color: /*white;*/var(--White);
+>>>>>>> 96c6aa3d66615326d9c24d2f05ea5b56c97e1230
     border: none;
     border-radius: 10px;
 }
 button:hover{
+<<<<<<< HEAD
     background-color: var(--Green);
     color: var(--Grey);
+=======
+    background-color: /*green;*/var(--Green);
+    color: /*green;*/var(--Grey);
+>>>>>>> 96c6aa3d66615326d9c24d2f05ea5b56c97e1230
 }
 .container{
     position: absolute;
@@ -92,7 +102,11 @@ button:hover{
     height: fit-content;
     justify-content: center;
     padding: 30px;
+<<<<<<< HEAD
     background-color:var(--DarkGrey);
+=======
+    background-color:/*darkgray;*/var(--DarkGrey);
+>>>>>>> 96c6aa3d66615326d9c24d2f05ea5b56c97e1230
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -106,12 +120,21 @@ button:hover{
 button{
     padding: 15px;
     margin: 8px;
+<<<<<<< HEAD
     background-color: var(--Grey);
     color: var(--White);
+=======
+    background-color:  /*green;*/var(--Grey);
+    color: /*white;*/var(--White);
+>>>>>>> 96c6aa3d66615326d9c24d2f05ea5b56c97e1230
     border: none;
     border-radius: 10px;
 }
 button:hover{
+<<<<<<< HEAD
     background-color: var(--Green);
+=======
+    background-color: /*greenyellow;*/var(--Green);
+>>>>>>> 96c6aa3d66615326d9c24d2f05ea5b56c97e1230
     color: var(--Grey);
 }
